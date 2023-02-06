@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+.output{
+    width: 650px;
+    height: 30px;
+    font-size: xx-large;
+	border-radius:20px;
+	text-align:center
+}
+#main{
+    font-weight:700;
+    font-size: large;
+    border-radius:20px;
+}
